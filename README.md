@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D70F7&width=435&lines=Hello!+I+am+Abu+Talha!)](https://git.io/typing-svg)
 # 💫 About Me:
  🔭 I’m currently learning at the Microverse Coding Full Stack program<br><br>🌱 I’m currently learning about Front-end and Back-end stack<br><br>👯 I’m looking to collaborate on open-source projects<br><br>💬 Ask me about front-end development<br><br>💼
- I am available for hire<br><br>📫 How to reach me via my 🌐socials👇<br>
+ I am available for hire<br><br>📫 You can reach me via my 🌐socials👇<br>
 
 
 ## 🌐 Socials:
