@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D70F7&width=435&lines=Hello!+I+am+Abu+Talha!)](https://git.io/typing-svg)
 # 💫 About Me:
  🔭 I’m currently learning Web Development as a full-time student at the Microverse in a Full Stack Web Dev course currently I am learning different languages<br><br>🌱 Front-end and Back-end stack I am gradually learning different languages and frameworks like JavaScript, React, Redux and ruby on Rails etc<br><br>👯 I’m looking to collaborate on open-source projects<br><br>💬 Ask me about front-end development<br><br>💼
- I am available for hire<br><br>📫 You can reach me through my🌐socials👇<br>
+ I am available for hire shortly as I am learning different languages to become a Full Stack Web Developer<br><br>📫 You can reach me through my🌐socials👇<br>
  najeebakhun@gmail.com
 
 
