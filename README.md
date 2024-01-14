@@ -1,7 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D70F7&width=435&lines=Hello!+I+am+Abu+Talha!)](https://git.io/typing-svg)
 # 💫 About Me:
- 🔭 I’m currently learning Web Development as a full-time student at Microverseinc. It is a day-to-day course where you are being assessed on a weekly basis progress in chunks of blocks and further you progress into modules and so on... <br><br>🌱 Front-end and Back-end stacks... I am gradually learning different languages and frameworks like `JavaScript`, `React`, `Redux`, and Ruby on Rails, etc It is a day-to-day course where you are assessed on weekly basis in the chunk of blocks and further you progress into modules and so on... <br><br>👯 I’m looking to collaborate on open-source projects in JavaScript and react-redux projects<br><br>💬 Ask me about front-end development as in a Full Stack Web Dev course currently, I am learning different languages at Microverseinc. Always enhancing my developer skills and data sciences with machine learning algorithm operators.<br><br>💼
- I am available for hire shortly as I am learning different languages to become a Full-stack web Developer. Ask me about front-end development as I am in a Full Stack Web Dev course currently, I am learning different languages like Ruby and Rails<br><br>📫 You can reach me through my🌐socials👇<br>
+🔭 Education and Learning Journey:
+I am currently immersed in a full-time Web Development program at Microverse Inc., where daily assessments gauge progress in structured blocks and modules. This dynamic curriculum exposes me to both front-end and back-end stacks, encompassing languages and frameworks such as JavaScript, React, Redux, and Ruby on Rails.
+
+🌱 Continuous Skill Enhancement:
+My commitment to continuous improvement is evident in my pursuit of proficiency in various languages. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of React and Redux. The structured learning environment at Microverse Inc. has provided a solid foundation for my journey into Full Stack Web Development.
+
+👯 Open to Collaboration:
+Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving JavaScript and React-Redux technologies. My goal is to engage in meaningful projects that contribute to the broader development community.
+
+💬 Expertise and Learning Focus:
+Feel free to inquire about my expertise in front-end development. As a current Full Stack Web Development student at Microverse Inc., my learning journey extends beyond languages to encompass data sciences and machine learning algorithm operations.
+
+💼 Available for Hire:
+Anticipating completion of my Full Stack Web Development course, I am gearing up to transition into a Full-stack Web Developer role. Proficient in languages like Ruby and Rails, I am open to opportunities that allow me to apply and expand my skill set.
+
+📫 Connect with Me:
+I welcome connections through my social platforms. Reach out and let's discuss the exciting possibilities in the world of web development.
  najeebakhun@gmail.com
 
 
