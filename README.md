@@ -15,7 +15,7 @@ Feel free to inquire about my expertise in front-end development. As a current F
 💼 **Available for Hire:**
 Anticipating completion of my Full Stack Web Development course, I am gearing up to transition into a Full-stack Web Developer role. Proficient in languages like Ruby and Rails, I am open to opportunities that allow me to apply and expand my skill set.
 
-📫 Connect with Me:
+📫 **Connect with Me:**
 I welcome connections through my social platforms. Reach out and let's discuss the exciting possibilities in the world of web development.
  najeebakhun@gmail.com
 
