@@ -9,7 +9,7 @@ My commitment to continuous improvement is evident in my pursuit of proficiency 
 👯 **Open to Collaboration:**
 Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving JavaScript and React-Redux technologies. My goal is to engage in meaningful projects that contribute to the broader development community.
 
-💬 Expertise and Learning Focus:
+💬 **Expertise and Learning Focus:**
 Feel free to inquire about my expertise in front-end development. As a current Full Stack Web Development student at Microverse Inc., my learning journey extends beyond languages to encompass data sciences and machine learning algorithm operations.
 
 💼 Available for Hire:
