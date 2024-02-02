@@ -4,7 +4,7 @@
 I am currently immersed in a full-time Web Development program at Microverse Inc., where daily assessments gauge progress in structured blocks and modules. This dynamic curriculum exposes me to both **`front-end`** and **`back-end`** stacks, encompassing languages and frameworks such as `JavaScript`, `React`, `Redux`, and `Ruby on Rails`.
 
 🌱 **Continuous Skill Enhancement:**
-My commitment to continuous improvement is evident in my pursuit of proficiency in various languages. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of `React and Redux`. The structured learning environment at Microverse Inc. has provided a solid foundation for my journey into `Full Stack Web Development`.
+My commitment to continuous improvement is evident in my pursuit of proficiency in various languages. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of `React and Redux`. The structured learning environment at Microverse Inc. has provided a solid foundation for my journey into **`Full Stack Web Development`**.
 
 👯 **Open to Collaboration:**
 Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving JavaScript and `React-Redux` technologies. My goal is to engage in meaningful projects that contribute to the broader development community.
