@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D70F7&width=435&lines=Hello!+I+am+Abu+Talha!)](https://git.io/typing-svg)
-# 💫 About Me:   [![](https://visitcount.itsvg.in/api?id=AbuTalha3&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:  
+[![](https://visitcount.itsvg.in/api?id=AbuTalha3&icon=0&color=0)](https://visitcount.itsvg.in)
 🔭 **Education and Learning Journey:**
 I am currently immersed in a **full-time Web Development program** at MicroverseInc., where daily assessments gauge progress in structured blocks and modules. This dynamic curriculum exposes me to both **`front-end`** and **`back-end`** stacks, **encompassing languages** and **frameworks** such as `JavaScript`, `React`, `Redux`, and `Ruby on Rails`.
 
