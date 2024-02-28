@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D70F7&width=435&lines=Hello!+I+am+Abu+Talha!)](https://git.io/typing-svg)
 # 💫 About Me:  
-[![](https://visitcount.itsvg.in/api?id=AbuTalha3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🔭 **Education and Learning Journey:**
 I am currently immersed in a **full-time Web Development program** at MicroverseInc., where daily assessments gauge progress in structured blocks and modules. This dynamic curriculum exposes me to both **`front-end`** and **`back-end`** stacks, **encompassing languages** and **frameworks** such as `JavaScript`, `React`, `Redux`, and `Ruby on Rails`.
@@ -32,6 +31,8 @@ Anticipating completion of my Full Stack Web Development course, I am gearing up
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ## I am Currently Learning ...
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+ [![](https://visitcount.itsvg.in/api?id=AbuTalha3&icon=0&color=0)](https://visitcount.itsvg.in)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbuTalha3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
