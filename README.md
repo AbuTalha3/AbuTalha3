@@ -8,7 +8,7 @@ I am currently immersed in a **full-time Web Development program** at Microverse
 My commitment to continuous improvement is evident in my pursuit of proficiency in **various languages**. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of `React and Redux`. The structured learning environment at Microverse Inc. has provided a solid foundation for my journey into **`Full Stack Web Development**.
 
 👯 **Open to Collaboration:**
-Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and `React-Redux` technologies. My goal is to engage in meaningful projects that contribute to the broader development community.
+Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving JavaScript and `React-Redux` technologies. My goal is to engage in meaningful projects that contribute to the broader development community.
 
 💬 **Expertise and Learning Focus:**
 Feel free to inquire about my expertise in front-end development. As a current **`Full Stack Web Development** student at Microverse Inc., my learning journey extends beyond languages to encompass data sciences and machine learning algorithm operations.
