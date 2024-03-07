@@ -1,4 +1,4 @@
-![Uploading Brown Wood Minimalist Profile LinkedIn Banner.gif…]()
+<a href="linkedin.jpg"></a>
 # 💫 About Me:  
 
 🔭 **Education and Learning Journey:**
