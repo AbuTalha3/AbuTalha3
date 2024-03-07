@@ -1,4 +1,4 @@
- <img src="./images/linkedin.jpg" alt="">
+ <img src="./images/linkedin.jpg" alt="linkedin pic">
 # 💫 About Me:  
 
 🔭 **Education and Learning Journey:**
