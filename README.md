@@ -1,4 +1,4 @@
-<a href="linkedin.jpg"></a>
+ <img src="./images/linkedin.jpg" alt="">
 # 💫 About Me:  
 
 🔭 **Education and Learning Journey:**
