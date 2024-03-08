@@ -49,3 +49,4 @@ Anticipating completion of my Full Stack Web Development course, I am gearing up
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./images/linkedin.jpg" alt="linkedin pic">
