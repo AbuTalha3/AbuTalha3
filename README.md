@@ -1,5 +1,5 @@
  <img src="./images/linkedin.jpg" alt="linkedin pic">
-# 💫 About Me:  
+## 💫 About Me:  
 
 🔭 **Education and Learning Journey:**
 I am currently immersed in a `**full-time Web Development program**` at **`MicroverseInc`**., where daily assessments gauge progress in structured `blocks` and modules. This `dynamic curriculum` exposes me to both **`front-end`** and **`back-end`** stacks, **encompassing languages** and **frameworks** such as `JavaScript`, `React`, `Redux`, and `Ruby on Rails`.
